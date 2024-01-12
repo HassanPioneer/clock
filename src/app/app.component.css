@@ -1,0 +1,29 @@
+.flex-center{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.outter-eclipse{
+    opacity: 0.1;
+}
+.inner-eclipe{
+    position: absolute;
+    width: 7.4%;
+}
+.hour-hand{
+    width: 2.5%;
+    right: 49.3%;
+    top: 30%;
+}
+.minute-hand{
+    width: 3%;
+    right: 47.1%;
+    top: 27%;
+}
+.second-hand{
+    width: 3%;
+    right: 47.1%;
+    top: 50%;
+}
